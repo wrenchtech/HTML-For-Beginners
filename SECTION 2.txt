@@ -1,0 +1,34 @@
+TAG|ELEMENT|ATTRIBUTE
+
+<TAG>SOME TEXT</TAG>
+
+|||TAG|||
+<TAG></TAG>: This are the tags which are used to put content inside if them
+<TAG>: This is the opening/starting tag
+</TAG>: This is the closing/ending tag 
+
+|||ELEMENT|||
+<TAG>SOME TEXT</TAG>: The whole thing is called ELEMENT
+Example:
+<TAG>This is a paragraph ELEMENT and you 
+can write text inside this TAG.</TAG>
+
+<TAG></TAG>: This is an empty element
+<br />: This is used to create a line break, you can also use <br>
+
+|||ATTRIBUTE|||
+<TAG name="value">SOME TEXT</TAG>: In this example name="value" is the ATTRIBUTE
+It's used to give additional properties to a tag
+Example: 
+<a href=https://www.google.com/>Google</a>
+This makes a word "Google" that links to the URL
+("<a>" tag is used for links)
+
+
+<name=class="2">John</name>
+
+<name>: Opening tag 
+=class="2": Attribute 
+John: Content 
+</name>: Closing tag 
+<name=class="2">John</name>: Element
