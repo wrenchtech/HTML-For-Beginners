@@ -6,7 +6,7 @@
     alt="Gif1" width=35>
   </a>
   &nbsp;Welcome to the repository to learn about HTML as a Beginner! &nbsp;
-  <img src=https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/Tad2ZrQ.gif 
+  <img src="/media/matrixgif.gif"
     alt="gif2" width=35>
 
 </div>
