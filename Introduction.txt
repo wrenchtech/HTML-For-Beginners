@@ -1,0 +1,51 @@
+--SECTION 1--
+What is HTML?
+Tag Elements and Attributes
+Setting Up the System
+
+--SECTION 2--
+Basic Structure of HTML page
+HTML Head Tag
+HTML Body Tag
+HTML Paragraph Spacing
+HTML Line Breaks
+HTML Non Breaking Space
+HTML Header Tags
+HTML Text Formating and Decoration
+HTML Inline Text Formating
+
+--SECTION 3--
+HTML Unordered List
+HTML Ordered List
+HTML Image Insertion
+HTML Embedding Videos
+HTML Absolute vs. Relative File Referencing
+HTML Link Creation
+HTML Anchor Tags
+
+--SECTION 3--
+HTML Tables
+HTML Nested Tables 
+HTML Merging Cells
+HTML Text Wrapping
+HTML Table Background Image
+HTML Cell Allignment
+
+--SECTION 5--
+HTML - Introduction to forms
+HTML Forms - Tag and Attributes
+HTML Forms - Post vs Get
+HTML Forms - Input Text Fields 
+HTML Forms - Select Menus
+HTML Forms - Check Boxes and Radio Buttons
+HTML Forms - Text Areas and Buttons
+
+--SECTION 6 // HTML PROJECT--
+HTML Project - Introduction
+HTML Project - Header
+HTML Project - Callout
+HTML Project - Image Insertion
+HTML Project - Text Insertion
+HTML Project - Links and Form
+HTML Project - Tabular Data
+HTML Project - Footer

@@ -1,0 +1,17 @@
+HTML Stands for:
+HyperText Markup Language
+
+HyperText: Images, videos, text and all the data that transport over the web
+Markup Language: Is the language used to mark the content with
+
+HTML is used to Describe the structure of a webpage 
+and how the content display on the web browser. 
+HTML is a markup language, markups are used in HTML to mark the content,
+HMTL page helps to link all the resources on the server; client browser sends
+the request to acces the HTML page; server sends the HTML page to client
+browser. Client browsers print the HTML page    
+
+HTML uses markup language to mark the content on the web page
+
+This is a Markup:
+<P> This is a Paragraph </P>
