@@ -11,8 +11,6 @@
 
 </div>
 
-<div align ="CENTER">
-
+  <div align ="CENTER">
   <img  height="100" src="/media/matrixgif.gif"
-
-</div>
+  </div>
