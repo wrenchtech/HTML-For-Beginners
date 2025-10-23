@@ -33,6 +33,6 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
     <li><a href="/SECTION 3.html">  HTML Head Tag - SECTION 4</a></li>
     <li><a href="/SECTION 3.html">  HTML Body Tag - SECTION 5</a></li>
 
- <div align ="CENTER">
+ <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
 </div>    
