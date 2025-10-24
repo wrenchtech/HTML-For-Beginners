@@ -26,7 +26,7 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 </div>
 
 <div align ="center">
-<h1>SECTION 1</h1>
+<h3>SECTION 1</h3>
 </div>
 
 <o>
