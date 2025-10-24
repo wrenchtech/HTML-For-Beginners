@@ -27,11 +27,12 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 
 <o>
     <li><a href="/Introduction.txt">  INTRODUCTION</a></li>
-    <li><a href="/SECTION 1.txt">   What is HTML? - SECTION 1</a></li>
-    <li><a href="/SECTION 2.txt">   Tag, Element & Attribute - SECTION 2</a></li>
-    <li><a href="/SECTION 3.html">  Basic Structure of a Web Page - SECTION 3</a></li>
-    <li><a href="/SECTION 4.html">  HTML Head Tag - SECTION 4</a></li>
-    <li><a href="/SECTION 5.html">  HTML Body Tag - SECTION 5</a></li>
+    <li><a href="/SECTIONS/SECTION 1.txt">   What is HTML? - SECTION 1</a></li>
+    <li><a href="/SECTIONS/SECTION 2.txt">   Tag, Element & Attribute - SECTION 2</a></li>
+    <li><a href="/SECTIONS/SECTION 3.html">  Basic Structure of a Web Page - SECTION 3</a></li>
+    <li><a href="/SECTIONS/SECTION 4.html">  HTML Head Tag - SECTION 4</a></li>
+    <li><a href="/SECTIONS/SECTION 7.html">  HTML Body Tag - SECTION 5</a></li>
+    <li><a href="/SECTIONS/SECTION 6.html">  Paragraph Spacing - SECTION 6</a></li>
 
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
