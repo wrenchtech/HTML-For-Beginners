@@ -22,17 +22,20 @@ Visit me at me profile [here](https://github.com/wrenchtech)
 LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 
 <div align ="center">
-<h2>Main Structure</h2>
+<h1><a href="/Introduction.txt">  INTRODUCTION</a></h1>
+</div>
+
+<div align ="center">
+<h1>SECTION 1</h1>
 </div>
 
 <o>
-    <li><a href="/Introduction.txt">  INTRODUCTION</a></li>
-    <li><a href="/SECTIONS/SECTION 1.txt">   What is HTML? - SECTION 1</a></li>
-    <li><a href="/SECTIONS/SECTION 2.txt">   Tag, Element & Attribute - SECTION 2</a></li>
-    <li><a href="/SECTIONS/SECTION 3.html">  Basic Structure of a Web Page - SECTION 3</a></li>
-    <li><a href="/SECTIONS/SECTION 4.html">  HTML Head Tag - SECTION 4</a></li>
-    <li><a href="/SECTIONS/SECTION 7.html">  HTML Body Tag - SECTION 5</a></li>
-    <li><a href="/SECTIONS/SECTION 6.html">  Paragraph Spacing - SECTION 6</a></li>
+    <li><a href="/SECTIONS/SECTION 1/SECTION 1.1 - What is HTML.txt">   What is HTML? - SECTION 1.1</a></li>
+    <li><a href="/SECTIONS/SECTION 1/SECTION 1.2 - Tag, Element & Attribute.txt">   Tag, Element & Attribute - SECTION 1.2</a></li>
+    <li><a href="/SECTIONS/SECTION 1/SECTION 1.3 - Basic Structure of a Web Page.html">  Basic Structure of a Web Page - SECTION 1.3</a></li>
+    <li><a href="/SECTIONS/SECTION 1/SECTION 1.4 - HTML Head Tag.html">  HTML Head Tag - SECTION 1.4</a></li>
+    <li><a href="/SECTIONS/SECTION 1/SECTION 1.5 - HTML Body Tag.html">  HTML Body Tag - SECTION 1.5</a></li>
+    <li><a href="/SECTIONS/SECTION 1/SECTION 1.6 - Paragraph Space.html">  Paragraph Spacing - SECTION 1.6</a></li>
 
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>

@@ -23,7 +23,7 @@ HTML Absolute vs. Relative File Referencing
 HTML Link Creation
 HTML Anchor Tags
 
---SECTION 3--
+--SECTION 4--
 HTML Tables
 HTML Nested Tables 
 HTML Merging Cells
@@ -40,7 +40,7 @@ HTML Forms - Select Menus
 HTML Forms - Check Boxes and Radio Buttons
 HTML Forms - Text Areas and Buttons
 
---SECTION 6 // HTML PROJECT--
+--SECTION 6--
 HTML Project - Introduction
 HTML Project - Header
 HTML Project - Callout
