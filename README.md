@@ -29,7 +29,7 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 <h3>SECTION 1</h3>
 </div>
 
-<o>
+<o><div align ="justify">
     <li><a href="/SECTIONS/SECTION 1/SECTION 1.1 - What is HTML.txt">   What is HTML? - SECTION 1.1</a></li>
     <li><a href="/SECTIONS/SECTION 1/SECTION 1.2 - Tag, Element & Attribute.txt">   Tag, Element & Attribute - SECTION 1.2</a></li>
     <li><a href="/SECTIONS/SECTION 1/SECTION 1.3 - Basic Structure of a Web Page.html">  Basic Structure of a Web Page - SECTION 1.3</a></li>
