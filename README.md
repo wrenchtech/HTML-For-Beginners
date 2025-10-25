@@ -32,12 +32,18 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 <o><div align ="justify">
     <li><a href="/SECTIONS/SECTION 1/SECTION 1.1 - What is HTML.txt">   What is HTML? - SECTION 1.1</a></li>
     <li><a href="/SECTIONS/SECTION 1/SECTION 1.2 - Tag, Element & Attribute.txt">   Tag, Element & Attribute - SECTION 1.2</a></li>
-    <li><a href="/SECTIONS/SECTION 1/SECTION 1.3 - Basic Structure of a Web Page.html">  Basic Structure of a Web Page - SECTION 1.3</a></li>
-    <li><a href="/SECTIONS/SECTION 1/SECTION 1.4 - HTML Head Tag.html">  HTML Head Tag - SECTION 1.4</a></li>
-    <li><a href="/SECTIONS/SECTION 1/SECTION 1.5 - HTML Body Tag.html">  HTML Body Tag - SECTION 1.5</a></li>
-    <li><a href="/SECTIONS/SECTION 1/SECTION 1.6 - Paragraph Space.html">  Paragraph Spacing - SECTION 1.6</a></li>
-    <li><a href="/SECTIONS/SECTION 1/SECTION 1.7 - Line Break.html">  Line Break - SECTION 1.7</a></li>
-    <li><a href="/SECTIONS/SECTION 1/SECTION 1.8 - Non-Breaking Space.html">  Non-Breaking Space - SECTION 1.8</a></li>
+
+<div align ="center">
+<h3>SECTION 2</h3>
+</div>
+
+<o><div align ="justify">
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.1 - Basic Structure of a Web Page.html">   Basic Structure of a Web Page</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.2 - HTML Head Tag.html">   HTML Head Tag</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.3 - HTML Body Tag.html">   HTML Body Tag</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.4 - Paragraph Space.html">   Paragraph Space</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.5 - Line Break.html">   Line Break</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.6 - Non-Breaking Space.html">   Non-Breaking Space</a></li>
 
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
