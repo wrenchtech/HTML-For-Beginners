@@ -16,7 +16,7 @@
   </div>
 
 Here you will find everything you need to learn the basis of HTML <br>
-Visit me at me profile [here](https://github.com/wrenchtech)
+Visit CSS For Beginners to learn even more [here!!!](https://github.com/wrenchtech)
 
 
 LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
