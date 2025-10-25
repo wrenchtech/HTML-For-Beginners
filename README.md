@@ -38,12 +38,13 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 </div>
 
 <o><div align ="justify">
-    <li><a href="/SECTIONS/SECTION 2/SECTION 2.1 - Basic Structure of a Web Page.html">   Basic Structure of a Web Page</a></li>
-    <li><a href="/SECTIONS/SECTION 2/SECTION 2.2 - HTML Head Tag.html">   HTML Head Tag</a></li>
-    <li><a href="/SECTIONS/SECTION 2/SECTION 2.3 - HTML Body Tag.html">   HTML Body Tag</a></li>
-    <li><a href="/SECTIONS/SECTION 2/SECTION 2.4 - Paragraph Space.html">   Paragraph Space</a></li>
-    <li><a href="/SECTIONS/SECTION 2/SECTION 2.5 - Line Break.html">   Line Break</a></li>
-    <li><a href="/SECTIONS/SECTION 2/SECTION 2.6 - Non-Breaking Space.html">   Non-Breaking Space</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.1 - Basic Structure of a Web Page.html">   Basic Structure of a Web Page - SECTION 2.1</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.2 - HTML Head Tag.html">   HTML Head Tag - SECTION 2.2</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.3 - HTML Body Tag.html">   HTML Body Tag - SECTION 2.3</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.4 - Paragraph Space.html">   Paragraph Space - SECTION 2.4</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.5 - Line Break.html">   Line Break - SECTION 2.5</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.6 - Non-Breaking Space.html">   Non-Breaking Space - SECTION 2.6</a></li>
+    <li><a href="/SECTIONS/SECTION 2/SECTION 2.7 - HMTL Header Tags.html"> HTML Header Tags - SECTION 2.7</a></li>
 
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
