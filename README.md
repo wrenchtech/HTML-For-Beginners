@@ -48,6 +48,13 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
     <li><a href="/SECTIONS/SECTION 2/SECTION 2.8 - Text Formatting and Decoration.html"> Text Formatting and Decoration - SECTION 2.8</a></li>
     <li><a href="/SECTIONS/SECTION 2/SECTION 2.9 - Inline Text Formatting.html"> Inline Text Formatting - SECTION 2.9</a></li>
 
+    <div align ="center">
+<h3>SECTION 3</h3>
+</div>
+
+<o><div align ="justify">
+    <li><a href="/SECTIONS/SECTION 3/SECTION 3.1 - Unordered List.html">   Unordered List - SECTION 3.1</a></li>
+
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
 </div>    
