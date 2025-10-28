@@ -48,7 +48,7 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
     <li><a href="/SECTIONS/SECTION 2/SECTION 2.8 - Text Formatting and Decoration.html"> Text Formatting and Decoration - SECTION 2.8</a></li>
     <li><a href="/SECTIONS/SECTION 2/SECTION 2.9 - Inline Text Formatting.html"> Inline Text Formatting - SECTION 2.9</a></li>
 
-    <div align ="center">
+<div align ="center">
 <h3>SECTION 3</h3>
 </div>
 
