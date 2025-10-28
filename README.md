@@ -54,6 +54,7 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
 
 <o><div align ="justify">
     <li><a href="/SECTIONS/SECTION 3/SECTION 3.1 - Unordered List.html">   Unordered List - SECTION 3.1</a></li>
+    <li><a href="/SECTIONS/SECTION 3/SECTION 3.2 - Ordered List.html">   Ordered List - SECTION 3.2</a></li>
 
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
