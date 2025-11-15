@@ -59,6 +59,11 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
     <li><a href="/SECTIONS/SECTION 3/SECTION 3.4 - Embedding Videos.html">   Embedding Videos - SECTION 3.4</a></li>
     <li><a href="/SECTIONS/SECTION 3/SECTION 3.5 - Relative and Absolute File Referencing.html">   Relative and Absolute File Referencing - SECTION 3.5</a></li>
     <li><a href="/SECTIONS/SECTION 3/SECTION 3.6 - Link Creation.html">   Link Creation - SECTION 3.6</a></li>
+    <li><a href="/SECTIONS/SECTION 3/SECTION 3.7 - Anchor Tags.html">   Anchor Tags - SECTION 3.7</a></li>
+    
+<div align ="center"> 
+<h3>SECTION 4</h3>
+</div>
 
  <br><br><div align ="CENTER">
 <img alt="c++" height="200" src="https://github.com/UP210630/UP210630_CPP/blob/main/Imagenes/PositiveWhisperedAmethystgemclam-max-1mb.gif"/>
