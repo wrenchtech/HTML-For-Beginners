@@ -70,6 +70,7 @@ LETS    [♫](https://www.youtube.com/watch?v=H6Q4s_ZdvAQ)   GRIND!!!!
     <li><a href="/SECTIONS/SECTION 4/SECTION 4.2 - Nested Tables.html">   Nested Tables - SECTION 4.2</a></li>
     <li><a href="/SECTIONS/SECTION 4/SECTION 4.3 - Merging Cells.html">   Merging Cells - SECTION 4.3</a></li>
     <li><a href="/SECTIONS/SECTION 4/SECTION 4.4 - Text Wrapping.html">   Text Wrapping - SECTION 4.4</a></li>
+    <li><a href="/SECTIONS/SECTION 4/SECTION 4.5 - Table Background Image.html">   Text Wrapping - SECTION 4.5</a></li>
 
 
  <br><br><div align ="CENTER">
